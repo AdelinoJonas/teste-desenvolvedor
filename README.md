@@ -7,8 +7,8 @@
 Este teste tem como objetivo avaliar seu conhecimento em desenvolvimento, incluindo a criação de APIs no backend, a construção de interfaces no frontend, e a integração entre frontend e backend.
 
 ## Instruções Gerais
-1. **Backend**: Crie uma API RESTful com Node.js usando o nestjs ou express.
-2. **Frontend**: Crie uma interface gráfica que consuma essa API em react ou vuejs.
+1. **Backend**: Crie uma API RESTful com Node.js usando o NestJs (https://nestjs.com/).
+2. **Frontend**: Crie uma interface gráfica que consuma essa API em React ou Vuejs.
 3. **CRUD**: Implemente operações de Create, Read, Update, Delete (Não precisa de banco de dados pode usar armazenamento em arrays).
 4. **API**: Sua API deve expor endpoints para gerenciar registros.
 5. **Interface**: A interface deve permitir a interação com os dados da API.
