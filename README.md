@@ -53,7 +53,7 @@ Este teste tem como objetivo avaliar seu conhecimento em desenvolvimento fullsta
 - **Tempo de Execução**: Completar a tarefa dentro do prazo de 1:30.
 
 ## Entrega
-- Envie o link do repositório no GitHub para `desenvolvimento@bluelogic.com.br`, com as seguintes informações no README:
+- Envie o link do repositório no GitHub para `desenvolvimento@bluelogic.com.br`, com as seguintes informações:
   - Nome completo
   - E-mail
   - Telefone de contato
