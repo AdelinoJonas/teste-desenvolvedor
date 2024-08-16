@@ -1,10 +1,10 @@
 
-# Teste Prático para Desenvolvedor Fullstack
+# Teste Prático para Desenvolvedor
 
 **Duração:** 1 hora e 30 minutos
 
 ## Objetivo
-Este teste tem como objetivo avaliar seu conhecimento em desenvolvimento fullstack, incluindo a criação de APIs no backend, a construção de interfaces no frontend, e a integração entre frontend e backend.
+Este teste tem como objetivo avaliar seu conhecimento em desenvolvimento, incluindo a criação de APIs no backend, a construção de interfaces no frontend, e a integração entre frontend e backend.
 
 ## Instruções Gerais
 1. **Backend**: Crie uma API RESTful com Node.js ou outra linguagem de sua escolha.
