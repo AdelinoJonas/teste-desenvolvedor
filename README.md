@@ -50,7 +50,7 @@ Este teste tem como objetivo avaliar seu conhecimento em desenvolvimento, inclui
 - **Funcionalidade**: Correta implementação do CRUD.
 - **Integração**: Comunicação entre frontend e backend via API.
 - **Organização do Código**: Boas práticas e clareza no código.
-- **Tempo de Execução**: Completar a tarefa dentro do prazo de 1:30.
+- **Tempo de Execução**: Completar a tarefa dentro do prazo de 2:00.
 
 ## Entrega
 - Envie o link do repositório no GitHub para `desenvolvimento@bluelogic.com.br`, com as seguintes informações:
