@@ -1,15 +1,15 @@
 
 # Teste Prático para Desenvolvedor
 
-**Duração:** 1 hora e 30 minutos
+**Duração:** 2 horas
 
 ## Objetivo
 Este teste tem como objetivo avaliar seu conhecimento em desenvolvimento, incluindo a criação de APIs no backend, a construção de interfaces no frontend, e a integração entre frontend e backend.
 
 ## Instruções Gerais
-1. **Backend**: Crie uma API RESTful com Node.js ou outra linguagem de sua escolha.
-2. **Frontend**: Crie uma interface gráfica que consuma essa API.
-3. **CRUD**: Implemente operações de Create, Read, Update, Delete.
+1. **Backend**: Crie uma API RESTful com Node.js usando o nestjs ou express.
+2. **Frontend**: Crie uma interface gráfica que consuma essa API em react ou vuejs.
+3. **CRUD**: Implemente operações de Create, Read, Update, Delete (Não precisa de banco de dados pode usar armazenamento em arrays).
 4. **API**: Sua API deve expor endpoints para gerenciar registros.
 5. **Interface**: A interface deve permitir a interação com os dados da API.
 
