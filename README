@@ -1,7 +1,5 @@
 
-# Teste Prático para Desenvolvedor
-
-![Desenvolvimento Fullstack](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+# Teste Prático para Desenvolvedor Fullstack
 
 **Duração:** 1 hora e 30 minutos
 
@@ -9,8 +7,8 @@
 Este teste tem como objetivo avaliar seu conhecimento em desenvolvimento fullstack, incluindo a criação de APIs no backend, a construção de interfaces no frontend, e a integração entre frontend e backend.
 
 ## Instruções Gerais
-1. ![Backend](https://img.icons8.com/color/48/000000/server.png) **Backend**: Crie uma API RESTful com Node.js ou outra linguagem de sua escolha.
-2. ![Frontend](https://img.icons8.com/color/48/000000/frontend.png) **Frontend**: Crie uma interface gráfica que consuma essa API.
+1. **Backend**: Crie uma API RESTful com Node.js ou outra linguagem de sua escolha.
+2. **Frontend**: Crie uma interface gráfica que consuma essa API.
 3. **CRUD**: Implemente operações de Create, Read, Update, Delete.
 4. **API**: Sua API deve expor endpoints para gerenciar registros.
 5. **Interface**: A interface deve permitir a interação com os dados da API.
@@ -35,7 +33,6 @@ Este teste tem como objetivo avaliar seu conhecimento em desenvolvimento fullsta
     "description": "Description of item 1"
   }
   ```
-  ![Exemplo de Estrutura](https://media.giphy.com/media/3o7aCVtdYKnIPwU7Ko/giphy.gif)
 
 ### 2. Frontend (Interface de Usuário)
 - Crie uma interface gráfica que permita:
@@ -43,8 +40,6 @@ Este teste tem como objetivo avaliar seu conhecimento em desenvolvimento fullsta
   - **Adicionar** um novo item.
   - **Atualizar** um item existente.
   - **Deletar** um item.
-
-![Frontend](https://media.giphy.com/media/l0MYDGAy5evow74ME/giphy.gif)
 
 **Requisitos:**
 - **Conexão com a API**: A interface deve consumir os endpoints da API.
@@ -58,7 +53,7 @@ Este teste tem como objetivo avaliar seu conhecimento em desenvolvimento fullsta
 - **Tempo de Execução**: Completar a tarefa dentro do prazo de 1:30.
 
 ## Entrega
-- Envie o link do repositório no GitHub para `desenvolvimento@bluelogic.com.br`, com as seguintes informações:
+- Envie o link do repositório no GitHub para `desenvolvimento@bluelogic.com.br`, com as seguintes informações no README:
   - Nome completo
   - E-mail
   - Telefone de contato
