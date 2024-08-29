@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './form.css'; 
 
 function ItemForm({ addItem, updateItem, currentItem, setCurrentItem }) {
   const [name, setName] = useState('');
@@ -32,7 +33,7 @@ function ItemForm({ addItem, updateItem, currentItem, setCurrentItem }) {
         type="text"
         value={name}
         onChange={(e) => setName(e.target.value)}
-        placeholder="Insira seu nome"
+        placeholder="Insira o nome do item"
         required
       />
       <textarea

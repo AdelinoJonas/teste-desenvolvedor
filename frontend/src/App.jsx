@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import ItemForm from './ItemForm';
 import ItemList from './ItemList';
+import './App.css'; 
 
 const apiClient = axios.create({
   baseURL: 'http://localhost:3000',
@@ -56,7 +57,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="app">
       <h1>Lista de Itens</h1>
       <ItemForm addItem={addItem} updateItem={updateItem} currentItem={currentItem} setCurrentItem={setCurrentItem} />
       <ItemList items={items} deleteItem={deleteItem} setCurrentItem={setCurrentItem} />
